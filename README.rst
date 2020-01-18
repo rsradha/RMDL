@@ -16,7 +16,7 @@ A new ensemble, deep learning approach for classification. Deep
 learning models have achieved state-of-the-art results across many domains.
 RMDL solves the problem of finding the best deep learning structure
 and architecture while simultaneously improving robustness and accuracy
-through ensembles of deep learning architectures. RDML can accept
+through ensembles of deep learning architectures. RMDL can accept
 as input a variety data to include text, video, images, and symbolic.
 
 
